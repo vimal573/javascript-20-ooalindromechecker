@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Palindrome Checker [Live Link](https://name-conversion-js.netlify.app/)
+## Palindrome Checker [Live Link](https://palindromechecke.netlify.app/)
 
 - Skills Gained in this project
 
